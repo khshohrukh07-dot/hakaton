@@ -1,0 +1,6 @@
+{
+  "name": "ГидроЩит — Сценарный анализ зон затопления",
+  "description": "Цифровая платформа для сценарного моделирования паводковых зон, учёта уязвимых объектов, расчёта площадей и домохозяйств и поддержки инженерных решений (Hackathon 2026).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
